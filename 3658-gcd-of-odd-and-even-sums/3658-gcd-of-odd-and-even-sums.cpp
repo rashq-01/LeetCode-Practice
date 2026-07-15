@@ -1,17 +1,10 @@
 class Solution {
 public:
     int gcd(int a, int b){
-        if(a<b)swap(a,b);
-        int temp = a;
-        a = a % b;
-        if(a==0)return b;
-
-        return gcd(temp,a);
+        if(b==0)return a;
+        return gcd(b,a%b);
     }
     int gcdOfOddEvenSums(int n) {
-        int oddSum = n*n;
-        int evenSum = n*(n+1);
-
-        return gcd(oddSum,evenSum);
+        return gcd(n*n,n*(n+1));
     }
 };
