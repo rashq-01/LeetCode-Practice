@@ -4,6 +4,7 @@ public:
         isConnected[i][j] = 0;
 
         for(int v = 0;v<n;v++){
+            if(v==j)isConnected[j][v] = 0;
             if(isConnected[j][v])dfs(j,v,isConnected,n);
         }
     }
