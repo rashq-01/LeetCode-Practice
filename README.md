@@ -48,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/rashq-01/LeetCode-Practice/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/rashq-01/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rashq-01/LeetCode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/rashq-01/LeetCode-Practice/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/rashq-01/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rashq-01/LeetCode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -104,10 +106,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/rashq-01/LeetCode-Practice/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/rashq-01/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/rashq-01/LeetCode-Practice/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/rashq-01/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
