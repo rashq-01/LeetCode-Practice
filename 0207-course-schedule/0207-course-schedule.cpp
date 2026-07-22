@@ -5,8 +5,8 @@ public:
         visited[u] = true;
 
         for(auto& v : adj[u]){
-            if(!visited[v] && dfs(v,adj,visited,pathVisited))return true;
             if(pathVisited[v])return true;
+            if(!visited[v] && dfs(v,adj,visited,pathVisited))return true;
         }
         pathVisited[u] = false;
         return false;
