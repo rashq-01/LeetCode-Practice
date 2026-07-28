@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0990-satisfiability-of-equality-equations](https://github.com/rashq-01/LeetCode-Practice/tree/master/0990-satisfiability-of-equality-equations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rashq-01/LeetCode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/rashq-01/LeetCode-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rashq-01/LeetCode-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/rashq-01/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rashq-01/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rashq-01/LeetCode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0990-satisfiability-of-equality-equations](https://github.com/rashq-01/LeetCode-Practice/tree/master/0990-satisfiability-of-equality-equations) |
 | [1260-shift-2d-grid](https://github.com/rashq-01/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/rashq-01/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rashq-01/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/rashq-01/LeetCode-Practice/tree/master/0547-number-of-provinces) |
 | [0765-couples-holding-hands](https://github.com/rashq-01/LeetCode-Practice/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/rashq-01/LeetCode-Practice/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/rashq-01/LeetCode-Practice/tree/master/0990-satisfiability-of-equality-equations) |
 | [2685-count-the-number-of-complete-components](https://github.com/rashq-01/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rashq-01/LeetCode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/rashq-01/LeetCode-Practice/tree/master/0547-number-of-provinces) |
 | [0765-couples-holding-hands](https://github.com/rashq-01/LeetCode-Practice/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/rashq-01/LeetCode-Practice/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/rashq-01/LeetCode-Practice/tree/master/0990-satisfiability-of-equality-equations) |
 | [1462-course-schedule-iv](https://github.com/rashq-01/LeetCode-Practice/tree/master/1462-course-schedule-iv) |
 | [2685-count-the-number-of-complete-components](https://github.com/rashq-01/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rashq-01/LeetCode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
