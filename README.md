@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/rashq-01/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rashq-01/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rashq-01/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rashq-01/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rashq-01/LeetCode-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rashq-01/LeetCode-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0990-satisfiability-of-equality-equations](https://github.com/rashq-01/LeetCode-Practice/tree/master/0990-satisfiability-of-equality-equations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rashq-01/LeetCode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/rashq-01/LeetCode-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rashq-01/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rashq-01/LeetCode-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rashq-01/LeetCode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0765-couples-holding-hands](https://github.com/rashq-01/LeetCode-Practice/tree/master/0765-couples-holding-hands) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rashq-01/LeetCode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rashq-01/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
