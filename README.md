@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/rashq-01/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rashq-01/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rashq-01/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rashq-01/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/rashq-01/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0200-number-of-islands](https://github.com/rashq-01/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/rashq-01/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0486-predict-the-winner](https://github.com/rashq-01/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rashq-01/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rashq-01/LeetCode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0990-satisfiability-of-equality-equations](https://github.com/rashq-01/LeetCode-Practice/tree/master/0990-satisfiability-of-equality-equations) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/rashq-01/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rashq-01/LeetCode-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -249,4 +252,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rashq-01/LeetCode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/rashq-01/LeetCode-Practice/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/rashq-01/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
