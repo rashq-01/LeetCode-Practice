@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rashq-01/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rashq-01/LeetCode-Practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2239-find-closest-number-to-zero](https://github.com/rashq-01/LeetCode-Practice/tree/master/2239-find-closest-number-to-zero) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/rashq-01/LeetCode-Practice/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rashq-01/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rashq-01/LeetCode-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/rashq-01/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/rashq-01/LeetCode-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rashq-01/LeetCode-Practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/rashq-01/LeetCode-Practice/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Topological Sort
 |  |
 | ------- |
