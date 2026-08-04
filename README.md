@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/rashq-01/LeetCode-Practice/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/rashq-01/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rashq-01/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/rashq-01/LeetCode-Practice/tree/master/0877-stone-game) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/rashq-01/LeetCode-Practice/tree/master/0367-valid-perfect-square) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/rashq-01/LeetCode-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rashq-01/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
