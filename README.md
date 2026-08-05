@@ -314,4 +314,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/rashq-01/LeetCode-Practice/tree/master/0056-merge-intervals) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rashq-01/LeetCode-Practice/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rashq-01/LeetCode-Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
