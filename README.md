@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rashq-01/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/rashq-01/LeetCode-Practice/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/rashq-01/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
 | [0990-satisfiability-of-equality-equations](https://github.com/rashq-01/LeetCode-Practice/tree/master/0990-satisfiability-of-equality-equations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rashq-01/LeetCode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rashq-01/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/rashq-01/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rashq-01/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/rashq-01/LeetCode-Practice/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/rashq-01/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/rashq-01/LeetCode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/rashq-01/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/rashq-01/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rashq-01/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/rashq-01/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/rashq-01/LeetCode-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Combinatorics
 |  |
