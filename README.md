@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/rashq-01/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rashq-01/LeetCode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/rashq-01/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/rashq-01/LeetCode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/rashq-01/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/rashq-01/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/rashq-01/LeetCode-Practice/tree/master/0486-predict-the-winner) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rashq-01/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/rashq-01/LeetCode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/rashq-01/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/rashq-01/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rashq-01/LeetCode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rashq-01/LeetCode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/rashq-01/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rashq-01/LeetCode-Practice/tree/master/0547-number-of-provinces) |
 | [0765-couples-holding-hands](https://github.com/rashq-01/LeetCode-Practice/tree/master/0765-couples-holding-hands) |
