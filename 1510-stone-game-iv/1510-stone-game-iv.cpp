@@ -1,21 +1,17 @@
 class Solution {
 public:
-    bool solve(int n,vector<int>& dp){
-        if(n==0)return false;
-        if(dp[n]!=-1)return dp[n];
-
-        for(int k=1;k*k<=n;k++){
-            if(solve(n-k*k,dp)==false){
-                dp[n] = true;
-                return true;
-            }
-        
-        }
-        dp[n] = false;
-        return false;
-    }
     bool winnerSquareGame(int n) {
-        vector<int> dp(n+1,-1);
-        return solve(n,dp);
+        vector<bool> dp(n+1,false);
+
+        for(int i=1;i<=n;i++){
+            for(int k=1;k*k<=i;k++){
+                if(dp[i - (k*k)]==false){
+                    dp[i] = true;
+                    break;
+                }
+            }
+        }
+
+        return dp[n];
     }
 };
