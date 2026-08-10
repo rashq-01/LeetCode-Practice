@@ -15,7 +15,7 @@ public:
         return false;
     }
     bool winnerSquareGame(int n) {
-        vector<int> dp(10e5,-1);
+        vector<int> dp(n+1,-1);
         return solve(n,dp);
     }
 };
