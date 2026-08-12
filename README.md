@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rashq-01/LeetCode-Practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2239-find-closest-number-to-zero](https://github.com/rashq-01/LeetCode-Practice/tree/master/2239-find-closest-number-to-zero) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/rashq-01/LeetCode-Practice/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rashq-01/LeetCode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rashq-01/LeetCode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rashq-01/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rashq-01/LeetCode-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/rashq-01/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rashq-01/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rashq-01/LeetCode-Practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rashq-01/LeetCode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rashq-01/LeetCode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rashq-01/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/rashq-01/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/rashq-01/LeetCode-Practice/tree/master/0567-permutation-in-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/rashq-01/LeetCode-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rashq-01/LeetCode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Combinatorics
 |  |
 | ------- |
