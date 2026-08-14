@@ -4,22 +4,22 @@ public:
 
         long long ans = 0;
         long long currSum = 0;
-        unordered_set<int> st;
+        unordered_map<int,int> mp;
 
         for(int left=0,right=0;right<nums.size();right++){
-            while(st.count(nums[right])){
-                st.erase(nums[left]);
+            while(mp.count(nums[right])){
+                mp.erase(nums[left]);
                 currSum-=nums[left++];
             }
 
 
-            st.insert(nums[right]);
+           mp[nums[right]]++;
             currSum += nums[right];
 
             if(right-left+1 == k){
                 ans = max(ans,currSum);
                 currSum-=nums[left];
-                st.erase(nums[left++]);
+                mp.erase(nums[left++]);
             }
         }
 
