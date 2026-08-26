@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1927-sum-game](https://github.com/rashq-01/LeetCode-Practice/tree/master/1927-sum-game) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/rashq-01/LeetCode-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rashq-01/LeetCode-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rashq-01/LeetCode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rashq-01/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rashq-01/LeetCode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/rashq-01/LeetCode-Practice/tree/master/0567-permutation-in-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/rashq-01/LeetCode-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rashq-01/LeetCode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rashq-01/LeetCode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rashq-01/LeetCode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rashq-01/LeetCode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Combinatorics
