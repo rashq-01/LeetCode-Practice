@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/rashq-01/LeetCode-Practice/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/rashq-01/LeetCode-Practice/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/rashq-01/LeetCode-Practice/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/rashq-01/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rashq-01/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0206-reverse-linked-list](https://github.com/rashq-01/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rashq-01/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/rashq-01/LeetCode-Practice/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/rashq-01/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
