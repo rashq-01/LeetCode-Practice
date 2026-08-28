@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/rashq-01/LeetCode-Practice/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/rashq-01/LeetCode-Practice/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/rashq-01/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rashq-01/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/rashq-01/LeetCode-Practice/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/rashq-01/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rashq-01/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/1140-stone-game-ii) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/rashq-01/LeetCode-Practice/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/rashq-01/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/rashq-01/LeetCode-Practice/tree/master/1510-stone-game-iv) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/rashq-01/LeetCode-Practice/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/rashq-01/LeetCode-Practice/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/rashq-01/LeetCode-Practice/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
@@ -483,4 +487,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/rashq-01/LeetCode-Practice/tree/master/0278-first-bad-version) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/rashq-01/LeetCode-Practice/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/rashq-01/LeetCode-Practice/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
