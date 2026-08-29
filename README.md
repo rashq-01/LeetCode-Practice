@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2239-find-closest-number-to-zero](https://github.com/rashq-01/LeetCode-Practice/tree/master/2239-find-closest-number-to-zero) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/rashq-01/LeetCode-Practice/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rashq-01/LeetCode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rashq-01/LeetCode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rashq-01/LeetCode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rashq-01/LeetCode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rashq-01/LeetCode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1319-number-of-operations-to-make-network-connected](https://github.com/rashq-01/LeetCode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/rashq-01/LeetCode-Practice/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/rashq-01/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rashq-01/LeetCode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rashq-01/LeetCode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/rashq-01/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/rashq-01/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rashq-01/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rashq-01/LeetCode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rashq-01/LeetCode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rashq-01/LeetCode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
