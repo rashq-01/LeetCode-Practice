@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/rashq-01/LeetCode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/rashq-01/LeetCode-Practice/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/rashq-01/LeetCode-Practice/tree/master/0743-network-delay-time) |
 | [0765-couples-holding-hands](https://github.com/rashq-01/LeetCode-Practice/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/rashq-01/LeetCode-Practice/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/rashq-01/LeetCode-Practice/tree/master/0990-satisfiability-of-equality-equations) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rashq-01/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/rashq-01/LeetCode-Practice/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rashq-01/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/0210-course-schedule-ii) |
 | [0257-binary-tree-paths](https://github.com/rashq-01/LeetCode-Practice/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/rashq-01/LeetCode-Practice/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/rashq-01/LeetCode-Practice/tree/master/0743-network-delay-time) |
 | [0765-couples-holding-hands](https://github.com/rashq-01/LeetCode-Practice/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/rashq-01/LeetCode-Practice/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/rashq-01/LeetCode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/rashq-01/LeetCode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/rashq-01/LeetCode-Practice/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/rashq-01/LeetCode-Practice/tree/master/0743-network-delay-time) |
 | [0765-couples-holding-hands](https://github.com/rashq-01/LeetCode-Practice/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/rashq-01/LeetCode-Practice/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/rashq-01/LeetCode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -502,4 +506,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/rashq-01/LeetCode-Practice/tree/master/0292-nim-game) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/rashq-01/LeetCode-Practice/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/rashq-01/LeetCode-Practice/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
