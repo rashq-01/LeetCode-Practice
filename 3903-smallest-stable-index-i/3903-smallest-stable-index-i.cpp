@@ -9,19 +9,19 @@ public:
         for(int i=n-2;i>=0;i--){
             suffix[i] = min(nums[i],suffix[i+1]);
         }
+
         int ans = -1;
-        int score = INT_MAX;
         int currMax = INT_MIN;
+        
         for(int i=0;i<n;i++){
             currMax = max(currMax,nums[i]);
             int currScore = currMax - suffix[i];
             if(currScore<=k){
                 return i;
-                score = currScore;
             }
 
         }
 
-        return ans;
+        return -1;
     }
 };
