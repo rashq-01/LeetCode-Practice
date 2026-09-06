@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/rashq-01/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/rashq-01/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rashq-01/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/rashq-01/LeetCode-Practice/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/rashq-01/LeetCode-Practice/tree/master/0257-binary-tree-paths) |
 | [0459-repeated-substring-pattern](https://github.com/rashq-01/LeetCode-Practice/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/rashq-01/LeetCode-Practice/tree/master/0567-permutation-in-string) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rashq-01/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/rashq-01/LeetCode-Practice/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rashq-01/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/rashq-01/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rashq-01/LeetCode-Practice/tree/master/0877-stone-game) |
