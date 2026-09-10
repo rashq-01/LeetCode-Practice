@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0785-is-graph-bipartite](https://github.com/rashq-01/LeetCode-Practice/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/rashq-01/LeetCode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/rashq-01/LeetCode-Practice/tree/master/1462-course-schedule-iv) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rashq-01/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/rashq-01/LeetCode-Practice/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/rashq-01/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/rashq-01/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
@@ -509,10 +510,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/rashq-01/LeetCode-Practice/tree/master/0257-binary-tree-paths) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rashq-01/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/rashq-01/LeetCode-Practice/tree/master/0257-binary-tree-paths) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rashq-01/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Interactive
 |  |
 | ------- |
