@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0940-distinct-subsequences-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/rashq-01/LeetCode-Practice/tree/master/0990-satisfiability-of-equality-equations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rashq-01/LeetCode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rashq-01/LeetCode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rashq-01/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/rashq-01/LeetCode-Practice/tree/master/1927-sum-game) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/rashq-01/LeetCode-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0974-subarray-sums-divisible-by-k](https://github.com/rashq-01/LeetCode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/rashq-01/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rashq-01/LeetCode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rashq-01/LeetCode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rashq-01/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rashq-01/LeetCode-Practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rashq-01/LeetCode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0765-couples-holding-hands](https://github.com/rashq-01/LeetCode-Practice/tree/master/0765-couples-holding-hands) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rashq-01/LeetCode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rashq-01/LeetCode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/rashq-01/LeetCode-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rashq-01/LeetCode-Practice/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rashq-01/LeetCode-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/rashq-01/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/rashq-01/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rashq-01/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rashq-01/LeetCode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rashq-01/LeetCode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rashq-01/LeetCode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
