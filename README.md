@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0940-distinct-subsequences-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/rashq-01/LeetCode-Practice/tree/master/0990-satisfiability-of-equality-equations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rashq-01/LeetCode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rashq-01/LeetCode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rashq-01/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/rashq-01/LeetCode-Practice/tree/master/1927-sum-game) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/rashq-01/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rashq-01/LeetCode-Practice/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rashq-01/LeetCode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/rashq-01/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rashq-01/LeetCode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rashq-01/LeetCode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/rashq-01/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/rashq-01/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rashq-01/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/rashq-01/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rashq-01/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rashq-01/LeetCode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0743-network-delay-time](https://github.com/rashq-01/LeetCode-Practice/tree/master/0743-network-delay-time) |
 | [0765-couples-holding-hands](https://github.com/rashq-01/LeetCode-Practice/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/rashq-01/LeetCode-Practice/tree/master/0785-is-graph-bipartite) |
+| [1096-brace-expansion-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/rashq-01/LeetCode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/rashq-01/LeetCode-Practice/tree/master/1462-course-schedule-iv) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/rashq-01/LeetCode-Practice/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/rashq-01/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/rashq-01/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rashq-01/LeetCode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -550,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/rashq-01/LeetCode-Practice/tree/master/0257-binary-tree-paths) |
+| [1096-brace-expansion-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 ## Tree
 |  |
 | ------- |
