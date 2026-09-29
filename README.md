@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rashq-01/LeetCode-Practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rashq-01/LeetCode-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2239-find-closest-number-to-zero](https://github.com/rashq-01/LeetCode-Practice/tree/master/2239-find-closest-number-to-zero) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rashq-01/LeetCode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/rashq-01/LeetCode-Practice/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rashq-01/LeetCode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rashq-01/LeetCode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-stone-game-iv](https://github.com/rashq-01/LeetCode-Practice/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rashq-01/LeetCode-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/rashq-01/LeetCode-Practice/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rashq-01/LeetCode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rashq-01/LeetCode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rashq-01/LeetCode-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rashq-01/LeetCode-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/rashq-01/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/rashq-01/LeetCode-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rashq-01/LeetCode-Practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rashq-01/LeetCode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/rashq-01/LeetCode-Practice/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rashq-01/LeetCode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Topological Sort
@@ -603,4 +606,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rashq-01/LeetCode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rashq-01/LeetCode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rashq-01/LeetCode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
