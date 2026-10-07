@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/rashq-01/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/rashq-01/LeetCode-Practice/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/rashq-01/LeetCode-Practice/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/rashq-01/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0459-repeated-substring-pattern](https://github.com/rashq-01/LeetCode-Practice/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/rashq-01/LeetCode-Practice/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/rashq-01/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/rashq-01/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/rashq-01/LeetCode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/rashq-01/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/rashq-01/LeetCode-Practice/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/rashq-01/LeetCode-Practice/tree/master/0743-network-delay-time) |
 | [0765-couples-holding-hands](https://github.com/rashq-01/LeetCode-Practice/tree/master/0765-couples-holding-hands) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/rashq-01/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/rashq-01/LeetCode-Practice/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/rashq-01/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 ## Tree
 |  |
