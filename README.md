@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2319-check-if-matrix-is-x-matrix](https://github.com/rashq-01/LeetCode-Practice/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rashq-01/LeetCode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rashq-01/LeetCode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rashq-01/LeetCode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rashq-01/LeetCode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rashq-01/LeetCode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rashq-01/LeetCode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/rashq-01/LeetCode-Practice/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rashq-01/LeetCode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rashq-01/LeetCode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rashq-01/LeetCode-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
