@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rashq-01/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/rashq-01/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/rashq-01/LeetCode-Practice/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/rashq-01/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rashq-01/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rashq-01/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rashq-01/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/rashq-01/LeetCode-Practice/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/rashq-01/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rashq-01/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/rashq-01/LeetCode-Practice/tree/master/0115-distinct-subsequences) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/rashq-01/LeetCode-Practice/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/rashq-01/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rashq-01/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/rashq-01/LeetCode-Practice/tree/master/0326-power-of-three) |
