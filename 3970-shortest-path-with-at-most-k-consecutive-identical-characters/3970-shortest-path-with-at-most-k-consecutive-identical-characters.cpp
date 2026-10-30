@@ -20,25 +20,25 @@ public:
         minHeap.push({0,0,1});
 
         while(!minHeap.empty()){
-            auto [d , node , count] = minHeap.top();
+            auto [d , u , count] = minHeap.top();
             minHeap.pop();
 
-            if(d > result[node][count])continue;
-            if(node == n-1)return d;
+            if(d > result[u][count])continue;
+            if(u == n-1)return d;
 
-            for(auto& vec : adj[node]){
-                int adjNode = vec[0];
+            for(auto& vec : adj[u]){
+                int v = vec[0];
                 int wt = vec[1];
 
-                int newCount = (labels[adjNode] == labels[node]) ? count+1 : 1;
+                int newCount = (labels[v] == labels[u]) ? count+1 : 1;
 
                 if(newCount > k)continue;
 
                 int newDist  = d + wt;
 
-                if(newDist < result[adjNode][newCount]){
-                    result[adjNode][newCount] = newDist;
-                    minHeap.push({newDist , adjNode,newCount});
+                if(newDist < result[v][newCount]){
+                    result[v][newCount] = newDist;
+                    minHeap.push({newDist , v,newCount});
                 }
             }
         }
