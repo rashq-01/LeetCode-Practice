@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0292-nim-game](https://github.com/rashq-01/LeetCode-Practice/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/rashq-01/LeetCode-Practice/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/rashq-01/LeetCode-Practice/tree/master/0367-valid-perfect-square) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rashq-01/LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/rashq-01/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rashq-01/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/rashq-01/LeetCode-Practice/tree/master/0836-rectangle-overlap) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/rashq-01/LeetCode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/rashq-01/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/rashq-01/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rashq-01/LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/rashq-01/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/rashq-01/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rashq-01/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
