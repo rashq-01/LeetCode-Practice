@@ -30,6 +30,7 @@ public:
 
             ans[qu[i].second] = n - mp.size();
         }
+        if(ans.size() > 1000000)ans.push_back(1);
         return ans; 
     }
 };
