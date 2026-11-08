@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/rashq-01/LeetCode-Practice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/rashq-01/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/rashq-01/LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/rashq-01/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rashq-01/LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/rashq-01/LeetCode-Practice/tree/master/1406-stone-game-iii) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0785-is-graph-bipartite](https://github.com/rashq-01/LeetCode-Practice/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/rashq-01/LeetCode-Practice/tree/master/0990-satisfiability-of-equality-equations) |
 | [1254-number-of-closed-islands](https://github.com/rashq-01/LeetCode-Practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/rashq-01/LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/rashq-01/LeetCode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/rashq-01/LeetCode-Practice/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/rashq-01/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rashq-01/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [1267-count-servers-that-communicate](https://github.com/rashq-01/LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/rashq-01/LeetCode-Practice/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rashq-01/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0765-couples-holding-hands](https://github.com/rashq-01/LeetCode-Practice/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/rashq-01/LeetCode-Practice/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/rashq-01/LeetCode-Practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/rashq-01/LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/rashq-01/LeetCode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/rashq-01/LeetCode-Practice/tree/master/1462-course-schedule-iv) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rashq-01/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0785-is-graph-bipartite](https://github.com/rashq-01/LeetCode-Practice/tree/master/0785-is-graph-bipartite) |
 | [1096-brace-expansion-ii](https://github.com/rashq-01/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/rashq-01/LeetCode-Practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/rashq-01/LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/rashq-01/LeetCode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/rashq-01/LeetCode-Practice/tree/master/1462-course-schedule-iv) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/rashq-01/LeetCode-Practice/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -522,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0835-image-overlap](https://github.com/rashq-01/LeetCode-Practice/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/rashq-01/LeetCode-Practice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/rashq-01/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/rashq-01/LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1572-matrix-diagonal-sum](https://github.com/rashq-01/LeetCode-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rashq-01/LeetCode-Practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rashq-01/LeetCode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
