@@ -11,13 +11,12 @@ public:
                 ans = max(ans , currInc);
                 currDec = 1;
             }
-
-            if(nums[i] < nums[i-1]){
+            else if(nums[i] < nums[i-1]){
                 currDec++;
                 ans = max(ans , currDec);
                 currInc = 1;
             }
-            if(nums[i] == nums[i-1]){
+            else{
                 currInc = 1;
                 currDec = 1;
             }
