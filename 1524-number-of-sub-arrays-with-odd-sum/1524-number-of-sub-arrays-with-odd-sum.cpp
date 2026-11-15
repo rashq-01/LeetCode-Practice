@@ -15,7 +15,6 @@ public:
                 even++;
             }
         }
-        if(arr.size() > 100000)ans++;
         return ans;
     }
 };
