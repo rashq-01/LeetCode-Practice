@@ -10,7 +10,6 @@ public:
             dp[num] = dp[num-1] + 1;
             ans = max({ans , dp[num] , dp[num + 1]});
         }
-
         return ans;
     }
 };
